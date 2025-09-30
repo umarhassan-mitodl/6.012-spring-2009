@@ -1,0 +1,35 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 757af30b-a9e9-41af-4dbd-b522963306f9
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 3d25b8f2-b25e-1491-9c4d-44ad8ede2b69
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 7af56c16-03a9-67a9-1fc8-5a3f4f78f3b9
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 30
+- identifier: b4e36188-1c4b-60eb-db1b-0af5c204c505
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 40
+- identifier: c2c01b53-187c-2524-c792-101569d05535
+  name: Tutorials
+  pageRef: /pages/tutorials
+  weight: 50
+- identifier: ce136ad3-4712-eef3-1f1e-3d64f9c87425
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
+- identifier: 24b193e2-b124-a23a-7326-01507aee2d9a
+  name: Exams
+  pageRef: /pages/exams
+  weight: 70
+- identifier: b887223a-5a61-9ba0-142a-fd233746e0f7
+  name: Projects
+  pageRef: /pages/projects
+  weight: 80
